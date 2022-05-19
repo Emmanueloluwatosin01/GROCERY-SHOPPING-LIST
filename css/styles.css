@@ -10,3 +10,9 @@ body{
   text-transform: capitalize;
   
 }
+#output{
+  color: rgb(145, 255, 0);
+  text-transform: capitalize;
+  font-size: x-large;
+  
+}
